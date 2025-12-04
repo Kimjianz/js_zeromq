@@ -1,0 +1,24 @@
+{
+  "name": "js_zeromq",
+  "version": "1.0.0",
+  "description": "자바스크립트로 zeromq 구현해보기",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimjianz/js_zeromq.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kimjianz/js_zeromq/issues"
+  },
+  "homepage": "https://github.com/Kimjianz/js_zeromq#readme",
+  "dependencies": {
+    "zeromq": "^6.5.0"
+  }
+}
