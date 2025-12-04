@@ -1,4 +1,5 @@
 const zmq = require("zeromq");
+
 async function main(){
     const socket = new zmq.Reply();
     await socket.bind("tcp://*:5555");
@@ -12,3 +13,4 @@ async function main(){
     }
 
 }
+main();
