@@ -1,5 +1,3 @@
-// lec-05-prg-06-pub-sub-and-pull-push-client.js
-
 const zmq = require("zeromq");
 
 async function main() {
